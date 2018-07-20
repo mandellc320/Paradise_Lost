@@ -68,6 +68,10 @@
          
       </fileDesc>
      
+     <encodingDesc>
+        <appInfo> <application xml:id="docxtotei" ident="CWRC-GitWriter-web-app" version="1.0"> <label>DOCX to TEI</label> </application> </appInfo>
+     </encodingDesc>
+     
   </teiHeader>
   
    <text> <!-- Overarching Wrapper -->
